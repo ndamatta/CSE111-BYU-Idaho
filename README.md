@@ -1,6 +1,6 @@
 # BYU-Idaho Applied Technology<br>
 Date: 12/10/2022<br>
-[CSE111] Programming with functions: My assignments
+[CSE111] Programming with functions: My assignments!
 
 <h3>Hi! This is <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a></h3>
 
