@@ -1,16 +1,11 @@
+![banner](https://github.com/ndamatta/CSE111-BYU-Idaho/assets/105658793/ae948b5f-b9d3-46e5-8df8-002d5c89f2d7)
+
 # BYU-Idaho Applied Technology<br>
-Date: 12/10/2022<br>
-[CSE111] Programming with functions: My assignments!
+<a href="https://www.linkedin.com/in/natanael-damatta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<h3>Hi! This is <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a></h3>
-
-In this repo you will find the assignments of <strong>CSE111.</strong> I hope it helps future students at BYU-Idaho<br>
-Each folder contains the Checkpoint, Team and Prove assignments of every week.<br>
-• I finished this course with an A grade.<br>
-• All assignments are done by <b>me</b> during the course, these are not the only way to accomplish it.<br> 
-• All assignments passed the grading and were checked<br>
-• Some assignments don't have the stretch challange done, but most do.<br>
-
+![cse 111 (1)](https://github.com/ndamatta/CSE111-BYU-Idaho/assets/105658793/69c79ae6-f36d-4517-8323-971be57282ca)<br>
+OCT 2022
+<h3>Hello! I'm <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a></h3>
 Please, feel free to make a pull request (changes) if you consider that there is something to update or improve. I tried to do my best and be as tidy as possible.<br>
 
 <b>DISCLAIMER:</b><br>
@@ -24,3 +19,4 @@ This is an inspired course from the Church. All the instructors try their best t
 
 Thanks for reading!<br>
 <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a> :)
+              
