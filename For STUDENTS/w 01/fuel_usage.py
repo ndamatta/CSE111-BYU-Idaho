@@ -5,6 +5,7 @@ from tracemalloc import start
 
 # Define the main function that drives the program's execution.
 def main():
+    print("---FUEL USAGE---")
     # Prompt the user for the first and second odometer readings in U.S. miles.
     first_odometer = float(input("Enter the first odometer reading (miles): "))
     second_odometer = float(input("Enter the second odometer reading (miles): "))
