@@ -1,26 +1,34 @@
-# BYU-Idaho Applied Technology<br>
-Date: 12/10/2022<br>
-[CSE111] Programming with functions: My assignments!
+# BYU-Idaho | [CSE-111] Programming with Functions<br>
+![date](https://img.shields.io/badge/2022-blue?style=for-the-badge&label=OCT)     <a href="https://www.linkedin.com/in/natanael-damatta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<h3>Hi! This is <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a></h3>
+![cse 111](https://github.com/ndamatta/CSE111-BYU-Idaho/assets/105658793/69c79ae6-f36d-4517-8323-971be57282ca)<br> 
+<br>
+<br>
+![info](https://img.shields.io/badge/INFORMATION:-blue)<br>
+Here you will find the assignments for <strong>CSE111</strong>, which I hope will be helpful for future students at BYU-Idaho.<br>
 
-In this repo you will find the assignments of <strong>CSE111.</strong> I hope it helps future students at BYU-Idaho<br>
-Each folder contains the Checkpoint, Team and Prove assignments of every week.<br>
-• I finished this course with an A grade.<br>
-• All assignments are done by <b>me</b> during the course, these are not the only way to accomplish it.<br> 
-• All assignments passed the grading and were checked<br>
-• Some assignments don't have the stretch challange done, but most do.<br>
+<ul>
+  <li>I successfully completed this course with an <strong>A</strong> grade.</li>
+  <li>All assignments were completed by <b>me</b> during the course. Please note that these solutions aren't the only way to approach the assignments.</li>
+  <li>All assignments have been graded and reviewed.</li>
+  <li>While most assignments include the stretch challenge, a few may not.</li>
+</ul> 
 
-Please, feel free to make a pull request (changes) if you consider that there is something to update or improve. I tried to do my best and be as tidy as possible.<br>
+Feel free to contribute by making a pull request if you find something that needs updating or improving. I've done my best to keep everything organized and tidy.<br>
+<br>
+<br>
+![disclaimer](https://img.shields.io/badge/DISCLAIMER:-red)
+<ul>
+  <li>Always follow your instructor's advice for EACH assignment. If you're facing difficulties, seek help from your classmates first—they're usually very supportive.</li>
+  <li>I <strong>DO NOT</strong> endorse cheating on assignments. The purpose of these assignments is to facilitate learning.</li>
+  <li>I <strong>STRONGLY OPPOSE</strong> any accusation of promoting cheating, as I am aware that it goes against <a href="https://dfkpq46c1l9o7.cloudfront.net/pdfs/148e250c14f5be811f0c42353b9d46dc.pdf">BYU's Honor Code</a>.</li>
+  <li>This repository aims to provide guidance to students who may feel stuck on a task. It offers insights into the steps and processes involved.</li>
+</ul>
 
-<b>DISCLAIMER:</b><br>
-• Follow your instructor's advices in EVERY assignment. Before checking for something here, go and ask help to your classmates. They're really cool and are always willing to help<br> 
-• I <strong>DON'T</strong> encourage cheating on assignments, if you are really doing the course it is to learn, and these assignments help you a lot with that.<br>
-• I <strong>REJECT</strong> any charge of encouraging students to cheat, knowing that it is against <a href="https://dfkpq46c1l9o7.cloudfront.net/pdfs/148e250c14f5be811f0c42353b9d46dc.pdf">BYU's Honor Code.</a><br>
-• This repo has the purpose of, if any student feels stuck in a task, he can have an idea of what steps to take and how the operation is carried out.<br>
+Taking this course allowed me to discover my passion for programming, and I hope it has a similar impact on you. Put in your best effort to learn, comprehend, and complete the assignments; they will establish a strong foundation for your future courses.
+The course draws inspiration from the Church, and the instructors are dedicated to helping us learn and achieve our goals.
 
-This course helped me to realize how much I like programming, and I hope it does the same for you. Try your best to learn, understand, and complete the assignments. It will be a solid foundation for following courses.
-This is an inspired course from the Church. All the instructors try their best to help us to learn and achieve our goals.
+Thank you for taking the time to read through this! If you're interested, you can also connect with me on <a href="https://www.linkedin.com/in/natanael-damatta/">LinkedIn</a>. :)
 
-Thanks for reading!<br>
-<a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a> :)
+Best regards,
+Natanael
