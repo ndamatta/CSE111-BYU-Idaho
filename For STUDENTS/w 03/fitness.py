@@ -4,15 +4,6 @@ from datetime import datetime
 
 
 def main():
-    # Get the user's gender, birthdate, height, and weight.
-    
-    # Call the compute_age, kg_from_lb, cm_from_in,
-    # body_mass_index, and basal_metabolic_rate functions
-    # as needed.
-
-    # Print the results for the user to see.
-    pass
-
 
 def compute_age(birth_str):
     """Compute and return a person's age in years.
