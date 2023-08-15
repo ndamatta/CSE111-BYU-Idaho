@@ -1,5 +1,3 @@
-# Copyright 2020, Brigham Young University-Idaho. All rights reserved.
-
 def prefix(string1, string2):
     """Return the prefix, if any, that appears in both string1 and
     string2. In other words, return a string of the characters
