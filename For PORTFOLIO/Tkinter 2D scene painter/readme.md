@@ -2,6 +2,6 @@
 This program is not runable in an online IDE.
 <br>
 <br>
-This program focuses on health-related calculations such as age, unit conversion, body mass index (BMI), and basal metabolic rate (BMR).<br>
-The program gathers user input and applies the necessary functions to perform the calculations.<br>
-It demonstrates my ability to handle user input, implement calculations, and organize code into functions for improved readability and modularity.
+This code utilizes the Draw 2-D library to create a visual scene with a sky, clouds, and a sun above a ground.<br>
+It defines functions to draw different elements of the scene, such as the sky, clouds, ground, and sun. The main function orchestrates the drawing process by calling these functions and setting up the canvas.<br>
+The code demonstrates my ability to use library functions to create graphical scenes.
