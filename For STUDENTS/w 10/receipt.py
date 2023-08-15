@@ -15,7 +15,7 @@ def main():
         products_dict = read_dict("products.csv", 0)
         print(products_dict)
         
-        with open("request.csv", "r") as csv_file:
+        with open("products.csv", "r") as csv_file:
             reader = csv.reader(csv_file)
             next(reader)
 
