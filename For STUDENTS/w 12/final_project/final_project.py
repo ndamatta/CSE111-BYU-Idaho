@@ -15,47 +15,48 @@ def main():
                 print(display_menu)
                 user_input = int(input("\nPlease, select a number for an operation: "))
 
-                if user_input == 1:
-                    #PRINT WHOLE DATAFRAME
-                    print(df)
+                match user_input:
+                    case 1:
+                        #PRINT WHOLE DATAFRAME
+                        print(df)
 
-                elif user_input == 2:
-                    #VALIDATE DATAFRAME
-                    user_rows = int(input("How many rows from the first?: "))
-                    first_rows = select_5_first_rows(df, user_rows)
+                    case 2:
+                        #VALIDATE DATAFRAME
+                        user_rows = int(input("How many rows from the first?: "))
+                        first_rows = select_5_first_rows(df, user_rows)
 
-                    user_rows = int(input("How many rows from the last?: "))
-                    last_rows = select_last_5_rows(df, user_rows)
+                        user_rows = int(input("How many rows from the last?: "))
+                        last_rows = select_last_5_rows(df, user_rows)
 
-                    print(f"------FIRST ROWS------")
-                    print(first_rows)
-                    print()
-                    print(f"------LAST ROWS------")
-                    print(last_rows)
+                        print(f"------FIRST ROWS------")
+                        print(first_rows)
+                        print()
+                        print(f"------LAST ROWS------")
+                        print(last_rows)
 
-                elif user_input == 3:
-                    #SELECT COLUMN
-                    user_column = input("What is the name of the column?: ")
-                    first_index = int(input("What is the first index? (0 if none): "))
-                    last_index = int(input("What is the last index? (0 if none): "))
+                    case 3:
+                        #SELECT COLUMN
+                        user_column = input("What is the name of the column?: ")
+                        first_index = int(input("What is the first index? (0 if none): "))
+                        last_index = int(input("What is the last index? (0 if none): "))
 
-                    column = select_column(df, user_column, first_index, last_index)
-                    print(f"------COLUMN------")
-                    print(column)
+                        column = select_column(df, user_column, first_index, last_index)
+                        print(f"------COLUMN------")
+                        print(column)
                 
-                elif user_input == 4:
-                    #RENAME COLUMN
+                    case 4:
+                        #RENAME COLUMN
                         original_column = input("What is the name of the column you want to rename?: ")
                         new_column = input("What name do you want to rename this column to?: ")
                         df = rename_column(df, original_column, new_column)
 
-                elif user_input == 5:
-                    #DELETE COLUMN
+                    case 5:
+                        #DELETE COLUMN
                         user_column = input("What is the name of the column you want to delete?: ")
                         delete_column(df, user_column)
 
-                elif user_input == 0:
-                    print("Thanks for using this program! :)")
+                    case 0:
+                        print("Thanks for using this program! :)")
                     
 
     except IndexError as error:
