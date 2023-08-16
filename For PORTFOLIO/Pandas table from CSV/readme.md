@@ -1,7 +1,6 @@
 <picture><img src="https://img.shields.io/badge/TABLE%20FROM CSV-purple?label=py"></picture><br>
 This program is not runable in an online IDE.
 <br>
-<br>
 <picture><img src="https://img.shields.io/badge/DESCRIPTION:-blue"></picture><br>
 This program utilizes the pandas library to facilitate interactions with tabular data from CSV files. It offers a command-line interface for users to perform operations on a DataFrame.<br>
 Users can choose to print the DataFrame, validate its contents by displaying initial and final rows, select specific columns, rename columns, and delete columns.<br>
