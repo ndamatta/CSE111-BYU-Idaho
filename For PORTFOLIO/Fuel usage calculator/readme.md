@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/FUEL%20USAGE-purple?label=py"> <br>
+<picture><img src="https://img.shields.io/badge/FUEL%20USAGE-purple?label=py"></picture><br>
 You can run this file <a href="https://www.online-python.com/yj68ivKClk" target="_blank">clicking here</a><br>
 <br>
 This program is designed to calculate and display the fuel efficiency of a vehicle based on user-provided odometer readings and fuel consumption.<br>

@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/RANDOM SENTENCE GENERATOR-purple?label=py"> <br>
+<picture><img src="https://img.shields.io/badge/RANDOM SENTENCE GENERATOR-purple?label=py"></picture><br>
 This program is not runable in an online IDE.
 <br>
 <br>
