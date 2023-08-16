@@ -1,10 +1,10 @@
 # BYU-Idaho | [CSE-111] Programming with Functions<br>
-![date](https://img.shields.io/badge/2022-blue?style=for-the-badge&label=OCT)     <a href="https://www.linkedin.com/in/natanael-damatta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<picture><img src="https://img.shields.io/badge/2022-blue?style=for-the-badge&label=OCT"></picture>    <a href="https://www.linkedin.com/in/natanael-damatta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-![cse 111](https://github.com/ndamatta/CSE111-BYU-Idaho/assets/105658793/69c79ae6-f36d-4517-8323-971be57282ca)<br> 
+<picture><img src="https://github.com/ndamatta/CSE111-BYU-Idaho/assets/105658793/69c79ae6-f36d-4517-8323-971be57282ca"></picture><br> 
 <br>
 <br>
-![info](https://img.shields.io/badge/INFORMATION:-blue)<br>
+<picture><img src="https://img.shields.io/badge/INFORMATION:-blue"></picture><br>
 Here you will find the assignments for <strong>CSE111</strong>, which I hope will be helpful for future students at BYU-Idaho.<br>
 
 <ul>
@@ -17,7 +17,7 @@ Here you will find the assignments for <strong>CSE111</strong>, which I hope wil
 Feel free to contribute by making a pull request if you find something that needs updating or improving. I've done my best to keep everything organized and tidy.<br>
 <br>
 <br>
-![disclaimer](https://img.shields.io/badge/DISCLAIMER:-red)
+<picture><img src="https://img.shields.io/badge/DISCLAIMER:-red"></picture>
 <ul>
   <li>Always follow your instructor's advice for EACH assignment. If you're facing difficulties, seek help from your classmates first—they're usually very supportive.</li>
   <li>I <strong>DO NOT</strong> endorse cheating on assignments. The purpose of these assignments is to facilitate learning.</li>
